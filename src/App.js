@@ -9,7 +9,7 @@ function App() {
         <h1>
           <span className="book">📖</span> Dictionary App
         </h1>
-        <p>Search for a word and find out it's definition</p>
+        <h5>Search for a word and find out it's definition</h5>
         <main>
           <Dictionary />
           <Footer />
