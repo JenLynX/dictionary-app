@@ -11,7 +11,7 @@ function App() {
         </h1>
         <h5>Search for a word and find out it's definition</h5>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="Forest" />
           <Footer />
         </main>
       </div>
