@@ -25,4 +25,16 @@ h5 {
   font-size: 14px;
   margin: 20px;
   font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+.Footer a {
+  color: #6d5aa7;
+}
+.Footer a:hover {
+  color: #eee9f7;
+}
+.container {
+  padding: 60px 0 100px;
+  max-width: 960px;
+  margin: 0 auto;
 }

@@ -12,10 +12,11 @@ button {
   background-color: #f7f7f7;
   padding: 18px;
   border-radius: 16px;
-  box-shadow: 2px 2px 13px grey;
-  margin-top: 22px;
-  margin-bottom: 22px;
+  box-shadow: 1px 1px 10px rgb(185, 182, 182);
+
   max-width: 800px;
+  display: block;
+  margin: 0 auto;
   
 }
 

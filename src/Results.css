@@ -4,3 +4,12 @@
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
 }
+.Results section {
+  background-color: #f7f7f7;
+  padding: 18px;
+  border-radius: 16px;
+  box-shadow: 1px 1px 10px rgb(185, 182, 182);
+
+  max-width: 800px;
+  margin-top: 20px;
+}

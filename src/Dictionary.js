@@ -42,7 +42,7 @@ export default function Dictionary(props) {
             <button
               type="search"
               onChange={handleKeywordChange}
-              className="btn btn-outline-primary btn-sm"
+              className="btn btn-outline-secondary btn-sm"
             >
               Search
             </button>

@@ -1,5 +1,5 @@
 h4 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Spectral", serif;
   font-size: 30px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -11,6 +11,7 @@ h4 {
   font-family: "Spectral", serif;
   font-weight: 600;
   font-size: 18px;
+  line-height: 20px;
 }
 .Meaning .example {
   font-family: "Joan", serif;
