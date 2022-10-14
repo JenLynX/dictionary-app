@@ -1,9 +1,8 @@
 h4 {
   font-family: "Spectral", serif;
   font-size: 30px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  text-align: center;
+  padding: 10px 16px 10px;
+  text-align: left;
   opacity: 0.9;
 }
 
@@ -11,7 +10,8 @@ h4 {
   font-family: "Spectral", serif;
   font-weight: 600;
   font-size: 18px;
-  line-height: 20px;
+  line-height: 22px;
+  padding-left: 16px;
 }
 .Meaning .example {
   font-family: "Joan", serif;
